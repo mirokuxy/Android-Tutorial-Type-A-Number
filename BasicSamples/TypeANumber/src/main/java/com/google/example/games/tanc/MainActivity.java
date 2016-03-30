@@ -30,6 +30,8 @@ import com.google.android.gms.games.Games;
 import com.google.android.gms.games.Player;
 import com.google.example.games.basegameutils.BaseGameUtils;
 
+import mirokuxy.android.TypeANumber.R;
+
 /**
  * Our main activity for the game.
  *

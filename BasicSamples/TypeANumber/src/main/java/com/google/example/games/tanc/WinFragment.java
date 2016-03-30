@@ -24,10 +24,12 @@ import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import mirokuxy.android.TypeANumber.R;
+
 /**
  * Fragment that shows the 'You won' message. Apart from congratulating the user
  * on their heroic number typing deeds, this screen also allows the player to sign
- * in if they are not signed in yet.
+ * in if they are not signed in yet.s
  *
  * @author Bruno Oliveira (Google)
  *

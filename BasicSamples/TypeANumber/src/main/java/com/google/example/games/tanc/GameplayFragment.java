@@ -25,6 +25,8 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
+import mirokuxy.android.TypeANumber.R;
+
 /**
  * Fragment for the gameplay portion of the game. It shows the keypad
  * where the user can request their score.
